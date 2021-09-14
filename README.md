@@ -1,3 +1,6 @@
+# Demo: https://happy-jones-e20c64.netlify.app/
+# Linkedin: https://www.linkedin.com/in/cristiangabrielvidal99/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
